@@ -164,7 +164,8 @@ def prompt():
 
 
 def main():
-    prompt()
+    #prompt()
+    test1()
     print()
 
 
