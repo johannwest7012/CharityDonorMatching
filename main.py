@@ -120,7 +120,7 @@ def prompt():
         yesno = input("Would you like to add a donor? (Y/N)")
         if yesno == 'Y' or yesno == 'y' or yesno == 'yes':
             #yes
-            symbol = str(input("What is the donor name or symbol"))
+            symbol = str(input("What is the donor name or symbol?"))
             money = int(input("How much funds does donor " + symbol +" have?"))
 
             new_don = Donor(symbol,money)
@@ -133,10 +133,12 @@ def prompt():
         yesno = input("Would you like to add a charity? (Y/N)")
         if yesno == 'Y' or yesno == 'y' or yesno == 'yes':
             # yes
-            symbol = str(input("What is the charity name or symbol"))
-            money = int(input("How much funds is charity " + symbol + " accepting in donations?"))
+            symbol = str(input("What is the charity name or symbol?"))
+            money = -1 * int(input("How much funds is charity " + symbol + " accepting in donations?"))
             new_charity = Charity(symbol, money)
             clist.append(new_charity)
+            print("Charity successfully added")
+
 
         else:
             break
@@ -164,8 +166,8 @@ def prompt():
 
 
 def main():
-    #prompt()
-    test1()
+    prompt()
+    # test1()
     print()
 
 
