@@ -29,4 +29,21 @@ Charity Class :
   
 Algorithm : 
 
+This project was done in conjucntion with a PHD student's research, and they explain the algortihm beautifully, so I'll let them take it away. 
+Credit to Steven Hamilton 
+steven.d.hamilton@vanderbilt.edu
+
+![Pic 1](CharityDonorImages/Presentation2.pptx.jpg)
+![Pic 2](CharityDonorImages/Presentation2(1).pptx.jpg)
+![Pic 3](CharityDonorImages/Presentation2(2).pptx.jpg)
+![Pic 4](CharityDonorImages/Presentation2(3).pptx.jpg)
+![Pic 5](CharityDonorImages/Presentation2(4).pptx.jpg)
+![Pic 6](CharityDonorImages/Presentation2(5).pptx.jpg)
+
+
+
+
+
+
+
   
