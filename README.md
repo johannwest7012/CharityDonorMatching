@@ -34,11 +34,11 @@ Credit to Steven Hamilton
 steven.d.hamilton@vanderbilt.edu
 
 ![Pic 1](CharityDonorImages/Presentation2.pptx.jpg)
-![Pic 2](CharityDonorImages/Presentation2(1).pptx.jpg)
-![Pic 3](CharityDonorImages/Presentation2(2).pptx.jpg)
-![Pic 4](CharityDonorImages/Presentation2(3).pptx.jpg)
-![Pic 5](CharityDonorImages/Presentation2(4).pptx.jpg)
-![Pic 6](CharityDonorImages/Presentation2(5).pptx.jpg)
+![Pic 2](CharityDonorImages/Presentation2.pptx(1).jpg)
+![Pic 3](CharityDonorImages/Presentation2.pptx(2).jpg)
+![Pic 4](CharityDonorImages/Presentation2.pptx(3).jpg)
+![Pic 5](CharityDonorImages/Presentation2.pptx(4).jpg)
+![Pic 6](CharityDonorImages/Presentation2.pptx(5).jpg)
 
 
 
