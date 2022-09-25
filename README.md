@@ -41,6 +41,10 @@ steven.d.hamilton@vanderbilt.edu
 ![Pic 6](CharityDonorImages/Presentation2.pptx(5).jpg)
 
 
+UI: 
+
+The Program provies a relatively basic but functional UI to input the proper data. Currently done by hand, have yet to decide a standardized input for standard input. 
+
 
 
 
