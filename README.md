@@ -1,6 +1,6 @@
 # CharityDonorMatching
 
-Developed in conjunction with PHD research here at Vanderbilt University, the Charity Donor Matching Algorithm is an object-oriented program based around the idea that charitable donations are not always distributed efficiently among charities. Taking in a certain number of charities, the preferred budget for each, the funds distributed by donors, and the preferred charities of donors, the program calculates the most efficient distributions of donations based on an algorithm provided by the PHD student studying this dilemma. Click the icon.
+Developed in conjunction with PHD research here at Vanderbilt University and Effective Altruism, the Charity Donor Matching Algorithm is an object-oriented program based around the idea that charitable donations are not always distributed efficiently among charities. Taking in a certain number of charities, the preferred budget for each, the funds distributed by donors, and the preferred charities of donors, the program calculates the most efficient distributions of donations based on an algorithm provided by the PHD student studying this dilemma. Click the icon.
 
 
 Donor Class : 
